@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-red: #c41e3a;
+  --color-brand-yellow: #f4b41a;
+  --color-brand-black: #0d0d0d;
+  --color-bg-main: #121212; /* Un gris casi negro para mejor contraste */
+
+  --background-image-brand-linear: linear-gradient(to right, #c41e3a, #f4b41a);
+}
