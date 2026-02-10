@@ -13,7 +13,7 @@ Este proyecto consiste en un sistema de punto de venta (POS) diseñado para el r
 ---
 ## Despliegue en Vercel: 
 
-> Link: https://lojusto-front-blue.vercel.app/
+> Link: https://lojusto-front-tailwind.vercel.app/
 
 ## 🧰 Tecnologías utilizadas
 
