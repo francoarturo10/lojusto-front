@@ -11,6 +11,9 @@
 Este proyecto consiste en un sistema de punto de venta (POS) diseñado para el restaurante "Lo Justo" específicamente para la gestión de ventas, autenticación por roles y visualización de reportes en tiempor real. Este proyecto demuestra habilidades avanzadas en el manejo de estados complejos, diseño responsivo y consumo de APIs REST.
 
 ---
+## Despliegue en Vercel: 
+
+> Link: https://lojusto-front-blue.vercel.app/
 
 ## 🧰 Tecnologías utilizadas
 
